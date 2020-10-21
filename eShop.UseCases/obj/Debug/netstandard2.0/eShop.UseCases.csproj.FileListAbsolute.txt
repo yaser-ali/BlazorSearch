@@ -1,0 +1,12 @@
+C:\Users\User\Desktop\MyFirstBlazorApp\eShop.UseCases\bin\Debug\netstandard2.0\eShop.UseCases.deps.json
+C:\Users\User\Desktop\MyFirstBlazorApp\eShop.UseCases\bin\Debug\netstandard2.0\eShop.UseCases.dll
+C:\Users\User\Desktop\MyFirstBlazorApp\eShop.UseCases\bin\Debug\netstandard2.0\eShop.UseCases.pdb
+C:\Users\User\Desktop\MyFirstBlazorApp\eShop.UseCases\bin\Debug\netstandard2.0\eShop.CoreBusiness.dll
+C:\Users\User\Desktop\MyFirstBlazorApp\eShop.UseCases\bin\Debug\netstandard2.0\eShop.CoreBusiness.pdb
+C:\Users\User\Desktop\MyFirstBlazorApp\eShop.UseCases\obj\Debug\netstandard2.0\eShop.UseCases.csprojAssemblyReference.cache
+C:\Users\User\Desktop\MyFirstBlazorApp\eShop.UseCases\obj\Debug\netstandard2.0\eShop.UseCases.AssemblyInfoInputs.cache
+C:\Users\User\Desktop\MyFirstBlazorApp\eShop.UseCases\obj\Debug\netstandard2.0\eShop.UseCases.AssemblyInfo.cs
+C:\Users\User\Desktop\MyFirstBlazorApp\eShop.UseCases\obj\Debug\netstandard2.0\eShop.UseCases.csproj.CoreCompileInputs.cache
+C:\Users\User\Desktop\MyFirstBlazorApp\eShop.UseCases\obj\Debug\netstandard2.0\eShop.UseCases.csproj.CopyComplete
+C:\Users\User\Desktop\MyFirstBlazorApp\eShop.UseCases\obj\Debug\netstandard2.0\eShop.UseCases.dll
+C:\Users\User\Desktop\MyFirstBlazorApp\eShop.UseCases\obj\Debug\netstandard2.0\eShop.UseCases.pdb
